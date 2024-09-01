@@ -97,7 +97,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #EEEEEE;
 		overflow-x: hidden;
 	}
 
@@ -151,7 +151,7 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
+		background-color: #EEEEEE;
 		color: #000000;
 	}
 
@@ -1955,7 +1955,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #49fcd4;
+			background-color: #31363F;
 			box-shadow: none;
 			color: #000000 !important;
 		}
@@ -2164,7 +2164,7 @@ input, select, textarea {
 	}
 
 		select option {
-			background-color: #ffffff;
+			background-color: #EEEEEE;
 			color: #000000;
 		}
 
@@ -2243,15 +2243,15 @@ input, select, textarea {
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
 			content: '\f00c';
-			background-color: #49fcd4;
-			border-color: #49fcd4;
-			color: #ffffff;
+			background-color: #31363F;
+			border-color: #31363F;
+			color: #EEEEEE;
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #49fcd4;
-			box-shadow: 0 0 0 1px #49fcd4;
+			border-color: #31363F;
+			box-shadow: 0 0 0 1px #31363F;
 		}
 
 	input[type="checkbox"] + label:before {
